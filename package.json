@@ -1,0 +1,23 @@
+{
+  "name": "test_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --env=jsdom"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntazelo/Test_practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ntazelo/Test_practice/issues"
+  },
+  "homepage": "https://github.com/ntazelo/Test_practice#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.16.0"
+  }
+}
